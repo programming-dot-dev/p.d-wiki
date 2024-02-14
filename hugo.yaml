@@ -1,5 +1,5 @@
 baseURL: https://example.com/
-title: P.D Legal
+title: Wiki
 theme: hugo-book
 
 enableGitInfo: true
@@ -14,7 +14,7 @@ menu:
   # before: []
   after:
     - name: "Source"
-      url: "https://github.com/programming-dot-dev/p.d-legal"
+      url: "https://github.com/programming-dot-dev/p.d-wiki"
       weight: 10
     - name: "Links"
       url: "https://me.programming.dev"
@@ -26,4 +26,4 @@ params:
   BookLogo: 'logo.png'
   BookFavicon: 'logo.png'
   BookMenuBundle: /menu
-  BookRepo: https://github.com/programming-dot-dev/p.d-legal
+  BookRepo: https://github.com/programming-dot-dev/p.d-wiki

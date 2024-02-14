@@ -74,7 +74,15 @@
 		color: rgb(70, 100, 200);
 	}
 	h1 {
+		display: flex;
+		align-items: center;
+		gap: 12px;
 		color: rgb(44, 175, 208);
+
+		img {
+			border-radius: 100%;
+			width: 40px;
+		}
 	}
 
 	h2 {
