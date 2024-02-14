@@ -1,0 +1,3 @@
+---
+BookMenuBundle: '/menu/test'
+---

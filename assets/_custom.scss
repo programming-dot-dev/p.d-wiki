@@ -1,0 +1,103 @@
+.book-menu-content nav ul:nth-child(3) {
+	color: gray;
+
+	label a img {
+		color: gray;
+		filter: invert(0.4)
+	}
+}
+
+.book-search {
+	input {
+		transition: all;
+		transition-duration: 300ms;
+		width: 100%;
+
+		&:focus {
+			width: 102%;
+			color: gold;
+		}
+	}
+}
+
+.book-menu-content nav ul:nth-child(6) {
+	padding-top: 20px;
+	color: gray;
+}
+
+*:focus {
+	outline-style: none;
+	outline-color: transparent;
+}
+
+.book-menu {
+	strong {
+		color: gray;
+	}
+
+	a {
+		transition: all;
+		transition-duration: 300ms;
+		
+		&:hover {
+			opacity: .8;
+			transform: scale(1.05);
+
+			@media (prefers-reduced-motion) {
+				transform: none;
+			}
+		}
+
+		&.active {
+			color: transparent;
+			background-clip: text;
+			background-color: rgb(44,175,208);
+			background-image: linear-gradient(90deg, rgba(44,175,208,1) 0%, rgba(148,45,253,1) 100%);
+		}
+	}
+}
+
+.book-brand {
+	span {
+		color: transparent;
+        	background-clip: text;
+        	background-color: rgb(44,175,208);
+        	background-image: linear-gradient(90deg, rgba(44,175,208,1) -50%, rgba(148,45,253,1) 150%);
+	}
+}
+
+.book-page {
+	article p:nth-child(2){
+		color: gray;
+	}
+	a {
+		color: rgb(70, 100, 200);
+	}
+	h1 {
+		color: rgb(44, 175, 208);
+	}
+
+	h2 {
+		color: rgb(88, 85, 233);
+	}
+
+	h3 {
+		color: rgb(148, 45, 253);
+	}
+}
+
+.book-toc-content {
+	ul {
+		li a {
+			transition: all;
+			transition-duration: 300ms;
+			color: rgb(150, 150, 150);
+		}
+
+		ul li a {
+			transition: all;
+			transition-duration: 300ms;
+			color: rgb(100, 100, 100);
+		}
+	}
+}

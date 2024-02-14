@@ -1,0 +1,29 @@
+baseURL: https://example.com/
+title: P.D Legal
+theme: hugo-book
+
+enableGitInfo: true
+
+languages:
+  en:
+    languageName: English
+    contentDir: content
+    weight: 1
+
+menu:
+  # before: []
+  after:
+    - name: "Source"
+      url: "https://github.com/programming-dot-dev/p.d-legal"
+      weight: 10
+    - name: "Links"
+      url: "https://me.programming.dev"
+      weight: 100
+
+params:
+  BookTheme: 'auto'
+  BookToC: true
+  BookLogo: 'logo.png'
+  BookFavicon: 'logo.png'
+  BookMenuBundle: /menu
+  BookRepo: https://github.com/programming-dot-dev/p.d-legal
