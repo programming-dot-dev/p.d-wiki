@@ -27,3 +27,5 @@ params:
   BookFavicon: 'logo.png'
   BookMenuBundle: /menu
   BookRepo: https://github.com/programming-dot-dev/p.d-wiki
+  BookCommitPath: 'commit'
+  BookEditPath: 'edit/main'
