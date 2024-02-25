@@ -1,0 +1,24 @@
+name: Enhancement
+description: 🥪 Create an Enhancement Request (enhance existing features)
+labels: ["Kind/🥪 Enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to suggest some new enhancements  
+  - type: checkboxes
+    attributes:
+      label: Requirements
+      description: Before you create an enhancement request, please check the following -
+      options:
+        - label: Check to see if this request already exists [here](https://git.programming.dev/Programming.Dev/p.d-wiki/issues?state=open&labels=3)
+          required: true
+        - label: Make sure It's a single enhancement. Please don't request multiple enhancements in one issue.
+          required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Describe the enhancement you want
+      description: Give a good description of what you want added. Also explain why its needed
+    validations:
+      required: true
