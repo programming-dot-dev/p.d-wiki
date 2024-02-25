@@ -5,7 +5,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to suggest some new features for the bot
+        Thanks for taking the time to suggest some new features
   - type: checkboxes
     attributes:
       label: Requirements
