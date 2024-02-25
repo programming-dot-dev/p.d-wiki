@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Programming.Dev Matrix Space
+    url: https://matrix.to/#/#p.d:matrix.org
+    about: For general chatting about programming.dev
+  - name: Programming.Dev Discord
+    url: https://discord.gg/PkdaMKsRQ9
+    about: For general chatting about programming.dev
+  - name: Email
+    url: mailto:info@programming.dev
+    about: Email the programming.dev team
