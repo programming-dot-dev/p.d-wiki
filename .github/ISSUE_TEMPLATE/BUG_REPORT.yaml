@@ -1,6 +1,7 @@
 name: Bug Report
-about: File a bug report
+description: 🐞 File a bug report
 title: "[Bug]: "
+labels: ["Kind/🍊 Bug"]
 body:
   - type: markdown
     attributes:
@@ -10,8 +11,18 @@ body:
     id: what-happened
     attributes:
       label: What happened?
-      description: Also tell us, what did you expect to happen?
-      placeholder: Tell us what you see!
-      value: "A bug happened!"
+      description: Explain the bug and give images if possible
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to Reproduce
+      description: Walk us through all the steps on how to reproduce your issue
+      value: |
+        1.
+        2.
+        3.
+        4.
     validations:
       required: true
