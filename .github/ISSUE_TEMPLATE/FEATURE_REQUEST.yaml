@@ -9,7 +9,7 @@ body:
   - type: checkboxes
     attributes:
       label: Requirements
-      description: Before you create a feature request, please check the following –
+      description: Before you create a feature request, please check the following -
       options:
         - label: Check to see if this request already exists [here](https://git.programming.dev/Programming.Dev/p.d-wiki/issues)
           required: true
