@@ -15,8 +15,10 @@
 The Programming.Dev wiki site is a place where programming.dev communities can create wiki pages about their community. For example to show a code of conduct, related communities, misc information thats relevant, etc.
 
 ## Links
-[Site](https://wiki.programming.dev)
-[Main Repo](https://git.programming.dev/Programming.Dev/p.d-wiki)
+- [Site](https://wiki.programming.dev)
+- [Main Repo](https://git.programming.dev/Programming.Dev/p.d-wiki)
+- [Discord](https://discord.gg/JsGUgmXheC)
+- [Matrix](https://matrix.to/#/#p.d:matrix.org)
 
 ## Credits
 Icon base by [Willdabeast](http://wjbstories.blogspot.com/) under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) with modifications to add a gradient 
