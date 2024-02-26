@@ -1,6 +1,6 @@
 <div align="center">
   
-![GitHub stars](https://img.shields.io/gitea/stars/Programming.Dev/p.d-wiki.svg?style=for-the-badge&gitea_url=https://git.programming.dev)
+![Stars](https://img.shields.io/gitea/stars/Programming.Dev/p.d-wiki.svg?style=for-the-badge&gitea_url=https://git.programming.dev)
 
 </div>
 <div align="center">
@@ -12,6 +12,7 @@
 </div>
 
 ## About
+
 The Programming.Dev wiki site is a place where programming.dev communities can create wiki pages about their community. For example to show a code of conduct, related communities, misc information thats relevant, etc.
 
 ## Links
@@ -21,4 +22,5 @@ The Programming.Dev wiki site is a place where programming.dev communities can c
 - [Matrix](https://matrix.to/#/#p.d:matrix.org)
 
 ## Credits
-Icon base by [Willdabeast](http://wjbstories.blogspot.com/) under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) with modifications to add a gradient 
+
+Icon base by [Willdabeast](http://wjbstories.blogspot.com/) under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) with modifications to add a gradient
